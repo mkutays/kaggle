@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "kaggle-venv\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local"
+}
